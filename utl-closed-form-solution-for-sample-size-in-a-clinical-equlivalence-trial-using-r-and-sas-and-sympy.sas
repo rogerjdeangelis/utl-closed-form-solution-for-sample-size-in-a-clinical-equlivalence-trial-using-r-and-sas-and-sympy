@@ -4,6 +4,10 @@
 
 Closed form solution for sample size in a clinical equlivalence trial using r and sas and sympy
 
+githib
+https://tinyurl.com/p8y9b9h4                                                                                                          
+https://github.com/rogerjdeangelis/utl-closed-form-solution-for-sample-size-in-a-clinical-equlivalence-trial-using-r-and-sas-and-sympy
+
 communities.sas
 https://tinyurl.com/5n729mp3
 https://communities.sas.com/t5/SAS-Programming/Sample-size-superiority-and-noninferiority-trial/m-p/837299#M331043
